@@ -14,8 +14,6 @@
   <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/gif-examples/data-pipeline-flow.gif" width="70%" alt="Data Flow Animation"/> -->
   <!-- Or a snake eating your contributions (very popular cool effect) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aksingh4545/aksingh4545/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aksingh4545/aksingh4545/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aksingh4545/aksingh4545/output/github-contribution-grid-snake.svg" width="70%"/>
   </picture>
 
