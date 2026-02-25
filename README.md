@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Futuristic typing animation – data engineer themed -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Kumar+Singh;Data+Engineer+%7C+Cloud+%26+Streaming;Building+calm%2C+reliable+data+systems;Pipelines+that+just+work...;Scale+%E2%88%9E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Kumar+Singh;Data+Engineer+%7C+Cloud+%26+Streaming;BBuilding+calm%2C+reliable+data+systems;Pipelines+that+just+work...;Scale+%E2%88%9E" alt="Typing SVG" />
 
   <br><br>
 
