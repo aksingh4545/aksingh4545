@@ -1,16 +1,13 @@
 <div align="center">
+  <h1>Data Engineer & Analytics</h1>
   <!-- Futuristic typing animation – data engineer themed -->
-<img 
+<!--<img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1500&color=00D4FF&center=true&vCenter=true&width=680&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankit+Kumar+Singh;Data+Engineer"
     alt="Typing SVG" 
-  />
-
-  <br><br>
+  />-->
 
   <!-- Profile views + small badge -->
   <img src="https://komarev.com/ghpvc/?username=aksingh4545&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
-
-  <br><br>
 
   <!-- Optional: add a cool data-related GIF or animation banner here -->
   <!-- Example sources: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub (look for coding / pipeline / data flow GIFs) -->
@@ -20,8 +17,6 @@
   <!--<picture>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aksingh4545/aksingh4545/output/github-contribution-grid-snake.svg" width="70%"/>
   </picture>-->
-
-  <br><br>
 </div>
 
 ---
