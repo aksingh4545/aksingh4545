@@ -36,31 +36,90 @@ Silence helps me focus. Clean logs make me happy. Calm infrastructure > shiny co
 
 ---
 
-## 🧠 Skills & Technologies
+
+
+
+
+
+## <div align="center">🧩 Tech Stack 🧩</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,postgres,pandas,aws,azure,docker,git&perline=7" alt="Core skills icons"/>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts&perline=5" alt="Web & scripting icons (used occasionally)"/>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" height="48" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="48" height="48" />
+        <br>Azure
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=snowflake" alt="Snowflake" width="48" height="48" />
+        <br>Snowflake
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+        <br>PostgreSQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" height="48" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Airflow" width="48" height="48" />
+        <br>Airflow
+      </td>
+      <td align="center" width="96">
+        <img src="https://img.icons8.com/color/48/databricks.png" alt="Databricks" width="48" height="48" />
+        <br>Databricks
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
+        <br>MySQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" width="48" height="48" />
+        <br>REST APIs
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="48" height="48" />
+        <br>FastAPI
+      </td>
+    </tr>
+  </table>
 </div>
 
-### Core Data Stack (daily drivers)
-- Python, SQL, PySpark  
-- MySQL / PostgreSQL / Snowflake  
-- Pandas & data wrangling  
-- AWS (S3, Glue, Lambda, EMR), Azure (Data Factory, Databricks)  
-- Airflow / dbt (orchestration & transformation)  
 
-### Streaming & Scale
-- Kafka / Event Hubs  
-- Spark / Databricks (exploring internals & perf tuning)  
-- Docker & basic infra automation  
 
-### When needed
-- FastAPI / Streamlit for data apps  
-- React / TS / JS for quick UIs  
 
----
+
+
+
 
 ## 🔭 What I’m working on right now
 
