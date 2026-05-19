@@ -7,7 +7,7 @@
   />-->
 
   <!-- Profile views + small badge -->
-  <img src="https://komarev.com/ghpvc/?username=aksingh4545&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=aksingh4545&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />-->
 
   <!-- Optional: add a cool data-related GIF or animation banner here -->
   <!-- Example sources: https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub (look for coding / pipeline / data flow GIFs) -->
@@ -35,11 +35,6 @@ I value systems that are:
 Silence helps me focus. Clean logs make me happy. Calm infrastructure > shiny complexity.
 
 ---
-
-
-
-
-
 
 ## <div align="center">🧩 Tech Stack 🧩</div>
 
